@@ -1,2 +1,1 @@
-# hexagonal-architecture
-Hexagonal Architecture
+# Strategic Account
