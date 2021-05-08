@@ -10,12 +10,12 @@
         <relativePath/>
     </parent>
 
-    <groupId>io.ashimjk.hexagonalarchitecture</groupId>
-    <artifactId>hexagonal-architecture</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <groupId>io.ashimjk.strategicaccount</groupId>
+    <artifactId>strategic-account</artifactId>
+    <version>1.0.0</version>
 
-    <name>hexagonal-architecture</name>
-    <description>Demo project for Spring Boot</description>
+    <name>strategic-account</name>
+    <description>Strategic Account</description>
 
     <properties>
         <java.version>11</java.version>
